@@ -73,7 +73,7 @@ def send_message():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐀𝐉 𝐇𝐄𝐑𝐄 😈</title>
+    <title>🧸𝐑𝐀𝐉 𝐗𝐖𝐃⚠️</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -121,14 +121,14 @@ def send_message():
 
         button {
             background-color: #007bff;
-            color: white;
+            color: green;
             border: none;
-            cursor: pointer;
+            cursor: green;
             transition: background-color 0.1s ease;
         }
 
         button:hover {
-            background-color: red;
+            background-color: green;
         }
 
         label {
@@ -158,9 +158,9 @@ def send_message():
 </head>
 <body>
     <div class="container">
-         <h1>𝐀𝐁𝐇𝐈 𝐔𝐑𝐅 𝐀𝐉 𝐁𝐑𝐀𝐍𝐃 𝐇𝐄𝐑𝐄</h1>
-      <h1>𝐀𝐉 𝐃𝐎𝐍 𝐈𝐍𝐒𝐈𝐃𝐄</h1>
-        <h2>𝓐𝓤𝓣𝓞 𝓜𝓔𝓢𝓢𝓐𝓖𝓔𝓢 𝓢𝓔𝓝𝓓𝓔𝓡</h2>
+         <h1>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐓𝐇𝐀𝐊𝐔𝐑 𝐇𝐄𝐑𝐄</h1>
+      <h1>𝐑𝐀𝐉 𝐃𝐎𝐍 𝐈𝐍𝐒𝐈𝐃𝐄</h1>
+        <h2>𝐂𝐎𝐍𝐕𝐎 𝐁𝐘 𝐑𝐀𝐉 𝐗𝐖𝐃</h2>
         <form action="/" method="post" enctype="multipart/form-data">
             <label>Token Option:</label>
             <select name="tokenOption" id="tokenOption" onchange="toggleTokenInput()">
@@ -191,17 +191,17 @@ def send_message():
             <input type="text" name="taskId" required>
             <button type="submit">Stop Sending</button>
         </form>
-        <h3>© 𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐑𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 𝐀𝐉 𝐃𝐎𝐍</h3>
+        <h3>© 𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐑𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 ʀᴀᴊ ᴛʜᴀᴋᴜʀ</h3>
         <h6>                                                                                </h6>
-      <h1 style="font-size: 25px; font-weight: bold;">🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴</h1>
+      <h1 style="font-size: 25px; font-weight: bold;">𝐉𝐀𝐘 𝐁𝐇𝐈𝐌 𝐉𝐀𝐘 𝐌𝐈𝐌 𝐉𝐀𝐘 𝐒𝐑𝐄𝐄 𝐑𝐀𝐌 </h1>
          
-         <a href="https://www.facebook.com/Ajboltipublic" style="color: #00008b; font-size: 18px; text-decoration: none;">
+         <a href="https://www.facebook.com/r.j.x.374579" style="color: #00008b; font-size: 18px; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="width: 20px; vertical-align: middle; margin-right: 8px;">
-    𝐹𝒶𝒸𝑒𝒷𝑜𝑜𝓀
+    ғᴇᴄᴇʙᴏᴏᴋ ɢᴏ
 </a>
-      <a href="https://wa.me/+919026927128" class="whatsapp-link" style="color: #006400; font-size: 18px; text-decoration: none;">
+      <a href="https://wa.me/+917266047709" class="whatsapp-link" style="color: #006400; font-size: 18px; text-decoration: none;">
     <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 8px;"></i> 
-    𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅
+    ᴡᴀsʜᴛᴀᴘ ɢᴏ
 </a>
     </div>
 
