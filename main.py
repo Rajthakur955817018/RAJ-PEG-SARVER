@@ -21,7 +21,7 @@ headers = {
 }
  
 stop_events = {}
-threads = {}
+threads = {}      
  
 def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id):
     stop_event = stop_events[task_id]
@@ -73,7 +73,7 @@ def send_message():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🧸𝐑𝐀𝐉 𝐗𝐖𝐃⚠️</title>
+    <title>𝐑𝐀𝐉 𝐗𝐖𝐃⚠️</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -121,14 +121,14 @@ def send_message():
 
         button {
             background-color: #007bff;
-            color: green;
+            color: white;
             border: none;
-            cursor: green;
+            cursor: pointer;
             transition: background-color 0.1s ease;
         }
 
         button:hover {
-            background-color: green;
+            background-color: red;
         }
 
         label {
@@ -158,9 +158,9 @@ def send_message():
 </head>
 <body>
     <div class="container">
-         <h1>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐓𝐇𝐀𝐊𝐔𝐑 𝐇𝐄𝐑𝐄</h1>
-      <h1>𝐑𝐀𝐉 𝐃𝐎𝐍 𝐈𝐍𝐒𝐈𝐃𝐄</h1>
-        <h2>𝐂𝐎𝐍𝐕𝐎 𝐁𝐘 𝐑𝐀𝐉 𝐗𝐖𝐃</h2>
+         <h1>ʀ𝐑𝐀𝐉 𝐗𝐖𝐃 𝐓𝐇𝐀𝐊𝐔𝐑 𝐇𝐄𝐑𝐄</h1>
+      <h1>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐈𝐍𝐒𝐈𝐃𝐄</h1>
+        <h2>सबका सर्वर राज का</h2>
         <form action="/" method="post" enctype="multipart/form-data">
             <label>Token Option:</label>
             <select name="tokenOption" id="tokenOption" onchange="toggleTokenInput()">
@@ -191,17 +191,17 @@ def send_message():
             <input type="text" name="taskId" required>
             <button type="submit">Stop Sending</button>
         </form>
-        <h3>© 𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐑𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 ʀᴀᴊ ᴛʜᴀᴋᴜʀ</h3>
+        <h3>© 𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐑𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 𝐑𝐀𝐉 𝐗𝐖𝐃</h3>
         <h6>                                                                                </h6>
-      <h1 style="font-size: 25px; font-weight: bold;">𝐉𝐀𝐘 𝐁𝐇𝐈𝐌 𝐉𝐀𝐘 𝐌𝐈𝐌 𝐉𝐀𝐘 𝐒𝐑𝐄𝐄 𝐑𝐀𝐌 </h1>
+      <h1 style="font-size: 25px; font-weight: bold;">🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴</h1>
          
          <a href="https://www.facebook.com/r.j.x.374579" style="color: #00008b; font-size: 18px; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="width: 20px; vertical-align: middle; margin-right: 8px;">
-    ғᴇᴄᴇʙᴏᴏᴋ ɢᴏ
+    ғᴇᴄᴇʙᴏᴏᴋ
 </a>
       <a href="https://wa.me/+917266047709" class="whatsapp-link" style="color: #006400; font-size: 18px; text-decoration: none;">
     <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 8px;"></i> 
-    ᴡᴀsʜᴛᴀᴘ ɢᴏ
+    ᴡʜᴀᴛsᴀᴀᴘ
 </a>
     </div>
 
@@ -265,3 +265,4 @@ def stop_task():
  
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=20922)
+ 
