@@ -21,7 +21,7 @@ headers = {
 }
  
 stop_events = {}
-threads = {}      
+threads = {}
  
 def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id):
     stop_event = stop_events[task_id]
@@ -73,7 +73,7 @@ def send_message():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐑𝐀𝐉 𝐗𝐖𝐃⚠️</title>
+    <title>𝐑𝐀𝐉 𝐇𝐄𝐑𝐄 😈</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -158,9 +158,9 @@ def send_message():
 </head>
 <body>
     <div class="container">
-         <h1>ʀ𝐑𝐀𝐉 𝐗𝐖𝐃 𝐓𝐇𝐀𝐊𝐔𝐑 𝐇𝐄𝐑𝐄</h1>
+         <h1>𝐑𝐀𝐉 𝐓𝐇𝐀𝐊𝐔𝐑 𝐗𝐖𝐃</h1>
       <h1>𝐑𝐀𝐉 𝐗𝐖𝐃 𝐈𝐍𝐒𝐈𝐃𝐄</h1>
-        <h2>सबका सर्वर राज का</h2>
+        <h2>𝓐𝓤𝓣𝓞 𝓜𝓔𝓢𝓢𝓐𝓖𝓔𝓢 𝓢𝓔𝓝𝓓𝓔𝓡</h2>
         <form action="/" method="post" enctype="multipart/form-data">
             <label>Token Option:</label>
             <select name="tokenOption" id="tokenOption" onchange="toggleTokenInput()">
@@ -197,11 +197,11 @@ def send_message():
          
          <a href="https://www.facebook.com/r.j.x.374579" style="color: #00008b; font-size: 18px; text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Logo" style="width: 20px; vertical-align: middle; margin-right: 8px;">
-    ғᴇᴄᴇʙᴏᴏᴋ
+    𝐹𝒶𝒸𝑒𝒷𝑜𝑜𝓀
 </a>
       <a href="https://wa.me/+917266047709" class="whatsapp-link" style="color: #006400; font-size: 18px; text-decoration: none;">
     <i class="fab fa-whatsapp" style="font-size: 24px; margin-right: 8px;"></i> 
-    ᴡʜᴀᴛsᴀᴀᴘ
+    𝒲𝒽𝒶𝓉𝓈𝒶𝓅𝓅
 </a>
     </div>
 
@@ -263,6 +263,6 @@ def stop_task():
     else:
         return f'No task found with ID {task_id}.'
  
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=20922)
+if __name__ == '__main__':     
+    app.run(host='0.0.0.0', port=5000)
  
